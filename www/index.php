@@ -21,6 +21,8 @@ ob_start();
 /* Set cookie_httponly. */
 ini_set("session.cookie_httponly", 1);
 
+include_once "../vendor/autoload.php";
+
 /* Load the framework. */
 include '../framework/router.class.php';
 include '../framework/control.class.php';

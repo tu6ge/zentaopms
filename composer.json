@@ -1,0 +1,13 @@
+{
+    "name": "tu6ge/zentaopms",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tu6ge",
+            "email": "772364230@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
